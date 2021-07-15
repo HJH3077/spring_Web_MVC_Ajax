@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ict</groupId>
 	<artifactId>controller</artifactId>
-	<name>07_13_MVC_Ajax</name>  
+	<name>07_14_MVC_Ajax</name>  
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>

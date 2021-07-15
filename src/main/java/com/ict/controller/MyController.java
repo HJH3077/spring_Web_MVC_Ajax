@@ -18,7 +18,7 @@ import com.ict.vo.VO;
 //								 배열,  ArrayList<VO> => JSON 브라우저에 표시된다.
 // 확인 => http://localhost:8090/접근URL
 // Spring Rest API 기본은 JSON이다.
-// 이제부터는 톰캣의 루트설정을 꼭 /로 해야함
+// 이제부터는 톰캣의 루트설정을 꼭 /로 해야함 
 @RestController
 public class MyController {
 	@RequestMapping(value = "text.do", produces = "text/html; charset=utf-8") // RequestMapping이 접근 URL
